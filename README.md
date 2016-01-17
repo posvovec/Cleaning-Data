@@ -1,10 +1,6 @@
 # Cleaning-Data
 The project for "Getting and cleaning data" course at Coursera
-
----
-title: "README"
 date: "16 January 2016"
----
 
 The "run_analysis.R" script performs the cleaning of the data collected from the accelerometers from the Samsung Galaxy S smartphone.  
 The code works as follows:
@@ -16,3 +12,5 @@ The code works as follows:
 5. We add 2 additional coloumns, called "Exercise" and "Subject" describing what activity is performed and the subject who performs the activity. 
 6. The tidy data is stored in the variable 'tidy_data'
 7. From the tidy data set 'tidy_data' an independent tidy data set with the average of each variable for each activity and each subject is created and stored into the variable 'new_tidy_data'
+
+CodeBook.md contains all the information about the script.
