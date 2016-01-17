@@ -4,7 +4,6 @@ The project for "Getting and cleaning data" course at Coursera
 ---
 title: "README"
 date: "16 January 2016"
-output: html_document
 ---
 
 The "run_analysis.R" script performs the cleaning of the data collected from the accelerometers from the Samsung Galaxy S smartphone.  
